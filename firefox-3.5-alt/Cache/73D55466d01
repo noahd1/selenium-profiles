@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" ?><searchresults total_results = '50' >
+<addon>
+        <name>Firebug</name>
+    <type id='1'>Extension</type>
+    <guid>firebug@software.joehewitt.com</guid>
+    <version>1.5.2</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Joe Hewitt</author>
+          <author>johnjbarton</author>
+          <author>robcee</author>
+          <author>FirebugWorkingGroup</author>
+    </authors>      
+    <summary>Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page...Firebug 1.5 requires Firefox 3.5 or higher.</summary>
+    <description>Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page.Visit the Firebug website for documentation, screen shots, and discussion forums: http://getfirebug.com</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/1843/1267077065</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.5</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/9486/</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/1843?src=api</learnmore>
+             <install hash='sha256:eaf40c31cb0efa2df4d300c90ae485c253dbf02d63498e604adbffacdc4d3327'
+              os='ALL'>https://addons.mozilla.org/downloads/file/81210/firebug-1.5.2-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Drupal For Firebug</name>
+    <type id='1'>Extension</type>
+    <guid>DrupalForFirebug@drupal.org</guid>
+    <version>0.0.5</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>populist</author>
+    </authors>      
+    <summary>Drupal for Firebug extends the Firebug module to provide Drupal specific debugging and status messages. </summary>
+    <description>Drupal for Firebug extends the Firebug module to provide Drupal specific debugging and status messages. It allows users to see the processing of the node, form, and user objects and works with the Devel module to display SQL queries and execute PHP from the Firebug window. It incorporates jQuery 1.26 for added UI improvements.You must download the DrupalForFirebug Drupal module to use this extension: http://drupal.org/project/drupalforfirebug.</description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>1.5</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/25975/1221437347</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/8370?src=api</learnmore>
+             <install hash='sha256:4a9a5f9b21e9cb93290557fcc7d655c6b0b22bcd0b619dfba4713dff4146500e'
+              os='ALL'>https://addons.mozilla.org/downloads/file/37576/drupal_for_firebug-0.0.5-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Firebug Paint Events</name>
+    <type id='1'>Extension</type>
+    <guid>firebugpaintevents@kylescholz.com</guid>
+    <version>0.1.7</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>kylescholz</author>
+    </authors>      
+    <summary>View details of MozAfterPaint events, using Firebug.</summary>
+    <description>View details of MozAfterPaint events, using Firebug.</description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.1b1</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/28443/1230503194</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/9620?src=api</learnmore>
+             <install hash='sha256:966c8ca1be3e7488bcd41bb84545e1a8d88a07f3f43c803b1599ac37a3478fb4'
+              os='ALL'>https://addons.mozilla.org/downloads/file/70637/firebug_paint_events-0.1.7-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>CodeBurner for Firebug</name>
+    <type id='1'>Extension</type>
+    <guid>firebug@tools.sitepoint.com</guid>
+    <version>1.5.2</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>SitePoint</author>
+    </authors>      
+    <summary>CodeBurner is a Firefox add-on that integrates with Firebug, to extend it with reference material for HTML and CSS.</summary>
+    <description>CodeBurner is a Firefox add-on that integrates with Firebug, to extend it with reference material for HTML and CSS.The extension&#39;s core functionality is centered around a new Reference panel, which contains a search tool for looking up HTML elements, attributes, and CSS properties.The extension also hooks into context-menus in the HTML and CSS panels, the DOM crumbtrail, and the Inspector, adding options to look up a selected item (ie. search for it in the Reference panel) or to view a code example.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/10273/1266281301</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>2.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula>Licensed under a modified Creative Commons Attribution-Noncommercial-Share Alike 3.0. You are free to copy, adapt, distribute and transmit the work, under the following conditions:Attribution.     You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). Commercial use.    You may use this work for commercial purposes. Noncommercial redistribution.    You may not redistribute this work for commercial purposes. For the purposes of this license, &quot;redistribute&quot; means to make copies and give them to other people; it does not mean making copies for your own private use, including local copies created during installation.Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/28600/1231217476</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/10273?src=api</learnmore>
+             <install hash='sha256:0cc14b5bafc7a7138f95059587aba67a8d3c9a60090b012a21adc0ddb1434259'
+              os='ALL'>https://addons.mozilla.org/downloads/file/80140/codeburner_for_firebug-1.5.2-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Firefinder for Firebug</name>
+    <type id='1'>Extension</type>
+    <guid>firefinder@robertnyman.com</guid>
+    <version>1.01</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Robert Nyman</author>
+    </authors>      
+    <summary>Finds HTML elements matching chosen CSS selector(s) or XPath expression</summary>
+    <description>Firefinder is an add-on to Firebug, to help find HTML elements matching chosen CSS selector(s) or XPath expression. You can also auto-select elements when hovering or via the context menu.View the results and then share them with a friend via the FriendlyFire feature, or click Inspect to go to the corresponding element in Firebug&#39;s HTML tab.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/11905/1256336846</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.5</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/36551/1252018644</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/11905?src=api</learnmore>
+             <install hash='sha256:404ee873fcbd71db6d1815597e4d43aa055b2493510fdccc268785efb440b244'
+              os='ALL'>https://addons.mozilla.org/downloads/file/67644/firefinder_for_firebug-1.01-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Inline Code Finder for Firebug</name>
+    <type id='1'>Extension</type>
+    <guid>icffirebug@robertnyman.com</guid>
+    <version>1.0</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Robert Nyman</author>
+    </authors>      
+    <summary>Inline Code Finder is an add-on to Firebug, to be able to find HTML elements with any of the below issues:    * Inline JavaScript events    * Inline style    * javascript: linksDetailed description can be found at http://www.robertnyman.com/inline-code-finder/</summary>
+    <description>Finds HTML elements with inline JavaScript events, inline styling and javascript: links</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/9641/1258539755</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>2.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/27885/1228781411</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/9641?src=api</learnmore>
+             <install hash='sha256:fdf23cd807eef245ec9f02e01e4b0849bb8c9281d739842b5b6704e96ec54cd5'
+              os='ALL'>https://addons.mozilla.org/downloads/file/70269/inline_code_finder_for_firebug-1.0-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>firesymfony</name>
+    <type id='1'>Extension</type>
+    <guid>firesymfony@obvioushints.blogspot.com</guid>
+    <version>1.1.2</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>videlalvaro</author>
+          <author>Jacqueline Wan</author>
+    </authors>      
+    <summary>Symfony Web Debug Toolbar for Firebug. Seamless Symfony debugging inside the popular Firebug.</summary>
+    <description>FireSymfony is a port of the Symfony Web Debug Toolbar as a Firebug extension. Besides the normal functionality of the Symfony Toolbar, it adds new features, like Database Query One Click copy to clipboard, or Mouse Over Partial and Component Cache Highlighting. </description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>2.0</min_version>
+            <max_version>3.7a1pre</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/26428/1246413846</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/9096?src=api</learnmore>
+             <install hash='sha256:e40e3abb436005b375f5d22ef31943432efa94a823c4883ed3bb0cceb170dcc2'
+              os='ALL'>https://addons.mozilla.org/downloads/file/63967/firesymfony-1.1.2-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Firediff</name>
+    <type id='1'>Extension</type>
+    <guid>firediff@johnjbarton.com</guid>
+    <version>0.2.1</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>kpdecker</author>
+    </authors>      
+    <summary>Track Changes in Firebug</summary>
+    <description>Change TrackingFirediff implements a change monitor that records all of the changes made by firebug and the application itself to CSS and the DOM. This provides insight into the functionality of the application as well as provide a record of the changes that were required to debug and tweak the page’s display.SnapshotNew to version 0.2, the ability to view the exact DOM and CSS state at any given time. This allows the developer to visualize all of the changes that have been made to the page, be it the current page state or any change in between.DependenciesFirediff requires Firebug 1.4. The recommended version is 1.4.0 or higher.</description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>1.5</min_version>
+            <max_version>3.5.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/34784/1248063165</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/13179?src=api</learnmore>
+             <install hash='sha256:c262f98ae99962e497f7aa3f95a7b0b8cf6ff915b784414ca7430d9222ad3289'
+              os='ALL'>https://addons.mozilla.org/downloads/file/59447/firediff-0.2.1-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Flashbug</name>
+    <type id='1'>Extension</type>
+    <guid>flashbug@coursevector.com</guid>
+    <version>1.5.0</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Gabriel Mariani</author>
+    </authors>      
+    <summary>A Firebug extension for Flash. Displays all the running .SWF file trace output. Requires Flash Player Debugger to work properly.</summary>
+    <description>This will display any traces from any .SWFs running currently (in Firefox or outside of Firefox). All the traces are displayed in a Flash Console tab in Firebug. You can search using the search box in Firebug to highlight any matches. Another added feature is line highlighting and icons for errors, warnings, and info traces. Finally, for any urls that appear in the traces, you can right-click on them to open them in a new tab.Like FlashTracer, it is required to have the Flash Player Debugger installed or you will not see any traces. Flashbug will tell you the version of Player detected on your system. If you do not have the Debug version, it will give you a link to download it. http://www.adobe.com/support/flashplayer/downloads.htmlUnlike FlashTracer there is no need to configure the flashlog.txt or mm.cfg files. This is all handled in the background by Flashbug so you can just get straight to working.New for 1.5:You can now open either the Trace or Policy log directly from Flashbug. This is to help allow people who want to either export or copy the raw traces directly.Also new is the Shared Object inspector. This works by listening to all the SWFs that are loaded for the page you are on. It then checks based on the domain against the Shared Objects stored on your computer. If it finds any, it will list them in this panel. Each row will list a Shared Object found, which you can expand to see the data stored within. You can also right click to open the file directly, if you have an editor installed. Or you can copy the path to the file, or even open the containing folder.Finally, there is AMF decoding added to the Net Panel of Firebug. This is available only for Firebug 1.4+. If  you visit a site that relies on remoting for data transfer you can now inspect the AMF Request being sent to the server. To do this, find the row in the Net Panel that is the AMF Request, and expand it. Once expanded you will see an AMF tab, clicking this will display the AMF message in it&#39;s entirety for you to inspect. Please keep in mind this does not include the server *Response*. Currently I&#39;m unable to get access to the binary response data. When this is available expect an update including that feature.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/14465/1264537531</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>2.0</min_version>
+            <max_version>3.7a1pre</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/37180/1253884554</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/14465?src=api</learnmore>
+             <install hash='sha256:7e4948cc257891b231eb27222cce238d7b154b9b93233f4d978b5af76dcc7704'
+              os='ALL'>https://addons.mozilla.org/downloads/file/68219/flashbug-1.5.0-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Firepicker</name>
+    <type id='1'>Extension</type>
+    <guid>firepicker@thedarkone</guid>
+    <version>1.3.1</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>thedarkone2</author>
+    </authors>      
+    <summary>Simple color picker plugin for Firebug.</summary>
+    <description>Adds a small color picker dialog when editing a CSS rule in Firebug. The addon scans for values that can be parsed as CSS colors (#abc, rgb(1,2,3), blue, red etc.) and displays them in a drop-down list right below the firebug&#39;s CSS editor box. Clicking on the color value in the drop-down brings up a color picker dialog.</description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.5</min_version>
+            <max_version>3.7a1pre</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/37986/1255696542</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/15032?src=api</learnmore>
+             <install hash='sha256:14697a2422ffe94768fb888a39d36630fd032bf595e5e78dc874adfe5d1d7a99'
+              os='ALL'>https://addons.mozilla.org/downloads/file/71260/firepicker-1.3.1-fx.xpi?src=api</install>          
+         </addon>
+</searchresults>
+ 

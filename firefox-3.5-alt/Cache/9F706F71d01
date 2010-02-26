@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?><addons>
+<addon>
+        <name>Cooliris</name>
+    <type id='1'>Extension</type>
+    <guid>piclens@cooliris.com</guid>
+    <version>1.11.6</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>The Cooliris Team</author>
+    </authors>      
+    <summary>The Cooliris 3D Wall -- Simply the fastest and most stunning way to browse photos and videos from the Web or your desktop. Effortlessly scroll an infinite &quot;3D Wall&quot; of your content from Facebook, Google Images, YouTube, Flickr, and hundreds more.</summary>
+    <description>Meet Cooliris, the 3D Wall that speeds up search on Google Images, YouTube, Flickr, and more. Enjoy the richest way to view photos from Facebook, Picasa, and even your own computer. On our infinite 3D Wall, you can effortlessly scroll though thousands of images and videos in seconds without having to click from page to page. Our Channels feature even lets you surf the latest news, TV episodes, and more. For details see: http://www.cooliris.com--------------------------------------------------------------------------------------------------------------------------Mac OS X 10.4 and Mac PowerPC are not supported on Cooliris v1.11.1+ To use Cooliris version 1.10 or earlier, please visit https://addons.mozilla.org/en-US/firefox/addons/versions/5579--------------------------------------------------------------------------------------------------------------------------HOW TO USE COOLIRIS Launch Cooliris any from your browser toolbar, or visit one of many hundreds of supported sites and click the Cooliris icon that appears as you mouseover images and videos. For example, to enjoy Cooliris on Google Images:1. Go to http://images.google.com2. Search as you normally do, e.g. &quot;mountains&quot; 3. Mouseover any thumbnail image from your search results4. Click the Cooliris icon that appears (or just click the Cooliris toolbar icon).Cooliris also works on Facebook, Flickr, YouTube, MySpace, Picasa Web Albums, and many more. See http://www.cooliris.com/product/supported. You can also search major providers within Cooliris with the built-in search box in the top right corner of the Cooliris interface.To lay back to watch TV episodes or the latest news in our Channels feature, just click the Cooliris icon on your browser toolbar and click the Channels button.TIPS &amp; TRICKS- For the best experience, use Firefox 3.5.2+ - Open items from the Wall to a new tab by CTRL-clicking &quot;go to webpage&quot; icon- Hide/show the Cooliris menu bars by pressing F8 (for PC) or Alt+Esc (for Mac)- Share your 3D Wall view by cutting and pasting its URL- Save your favorite 3D Wall view to your browser&#39;s bookmarks or set it as your homepage  SPREAD THE LOVE!Tell a friend or post about Cooliris at http://www.cooliris.com/inviteOr, if you&#39;re interested in what&#39;s coming next, join our beta community at http://cooliris.com/beta/signup------------------------By downloading Cooliris from Firefox Add-ons, you agree to the terms of our EULA and Privacy Policy. To see our current EULA and Privacy Policy, please visit http://www.cooliris.com/legal/.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/5579/1262830598</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>Darwin</os><os>WINNT</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/21903/1229074254</thumbnail>
+    <rating>4</rating>
+    <learnmore>https://addons.mozilla.org/addon/5579?src=api</learnmore>
+             <install hash='sha256:4c452bdd6cbcb3bfe5dab263a0d0523acaac8fc1ee0dcab964f7885086b9705f'
+              os='Darwin'>https://addons.mozilla.org/downloads/file/74797/cooliris-1.11.6-fx-macosx.xpi?src=api</install>          
+                      <install hash='sha256:9191425632dc9da37cf2fb9783d00b6955de4b377b568c99c8ef309697f08469'
+              os='WINNT'>https://addons.mozilla.org/downloads/file/74800/cooliris-1.11.6-fx-win.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Yoono - Twitter, Facebook, LinkedIn, MySpace, Flickr, AIM, MSN, GTalk...</name>
+    <type id='1'>Extension</type>
+    <guid>{d9284e50-81fc-11da-a72b-0800200c9a66}</guid>
+    <version>7.0.6</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Yoono </author>
+    </authors>      
+    <summary>All your social networks and instant messaging in one easy to use app - it&#39;s the #1 downloaded social networking add-on for Firefox. Get all your updates, update your status and share across Facebook, Twitter, LinkedIn and more - all at once! </summary>
+    <description>*** Note: &lt;strong&gt;Yoono 7.1.0 is available on http://www.yoono.com &lt;/strong&gt;and includes brand new features such as support for multiple columns (dashboard view), other new features, and fixes for an incompatibility with the Tab Mix Plus add-on and a LinkedIn connection issue.  We hope to have this new version here in the Add-ons directory shortly.***Yoono is a powerful but easy to use sidebar for Firefox that helps you simplify your online social life by connecting you to Facebook, MySpace, Twitter, LinkedIn, Flickr, Friendfeed, AIM, Yahoo IM and more...all in one place.  Yoono is also the easiest way to share stuff with all your social networks - share links, images and video from the page you&#39;re viewing across all your networks simultaneously.  &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Connect to all your social networks&lt;/strong&gt; and never miss another status update from friends or family. You&#39;re connected wherever you are on the web.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Update your status&lt;/strong&gt; across all your social networks at the same time.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;All your IM services right in your browser sidebar&lt;/strong&gt; to easily chat while your surf the web - no more logging on to multiple services. &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Easily share links, images, and video&lt;/strong&gt; from the page you are viewing with all your social networks at the same time.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Discover cool stuff&lt;/strong&gt; with the discovery widget that shows you related websites, images, videos and more as you browse.&lt;/ul&gt;&lt;strong&gt;YOONO 7 ENHANCEMENTS:&lt;/strong&gt;We are committed to giving you regular updates and improvements to Yoono - version 7.0.6 includes:  * LinkedIn support  * Support for Twitter lists (view in Yoono - more support coming soon)  * Improved performance - we&#39;ve rewritten a lot of the underlying code to make this the fastest and least resource intensive version of Yoono yet.  * Support for multiple account set up for Twitter, Facebook, MySpace, and more.  * Profile selector that enables switching between user profiles (i.e. Twitter accounts) within browser tabs via a profile selector to the left of the URL bar.  * Groups - you can create Yoono groups and add users from any service (Facebook, Twitter, LinkedIn, etc.) to your group, then filter your stream by group.    * Support for Facebook Inbox Messages and Notifications  * Support for Twitter&#39;s new retweet functionality  * Upload pics and more from your computer via our new partner yFrog (or other hosting services)  * Full text search of your updates stream so you can see what your friends are saying about a particular topic.  We&#39;re leveraging SQLite in HTML 5 to create a client side store of your updates and can store up to 25,000 of your recent updates.  * Connection improvements for Twitter, Facebook, and instant messaging services  * Spell check  * Improved pop up alert design &amp; configuration options  * New default skin &amp; UI design enhancements  * Simplified Read/Unread indicator (yellow background for new updates, fades away when read)  * Sign In/Out - you can now sign out of Yoono for more privacy.  If you are using as an unregistered user there is no password protection but you can disconnect from all services.  If you are a registered user you can password protect Yoono.  * Font size selection capability  * Bug fixes&lt;strong&gt;ALSO NEW FROM YOONO – UPDATED YOONO DESKTOP v1.6!&lt;/strong&gt;We have also updated our Yoono Desktop application with the features above – it&#39;s everything you love about Yoono as a standalone desktop client.  Available as a beta for Windows and Mac at http://www.yoono.com/desktop_features.html .  Give it a try!&lt;strong&gt;WHAT PEOPLE ARE SAYING ABOUT YOONO:&lt;/strong&gt;“The Social Network Plugin You’ve Been Waiting For” &lt;strong&gt;- Techcrunch&lt;/strong&gt;&quot;If you&#39;ve got a good reason to have an account at several places, and want to look at them all easily, Yoono is the way to go.&quot; &lt;strong&gt;- PCWorld&lt;/strong&gt;“Yoono now offering an elegant solution to social networking clutter” &lt;strong&gt;-Webware&lt;/strong&gt;See what users are saying at: http://search.twitter.com/search?q=yoonoAvailable for Windows, Mac and Linux.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/1833/1266712537</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.0</min_version>
+            <max_version>3.7a2pre</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/27420/1262644697</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/1833?src=api</learnmore>
+             <install hash='sha256:2252df4d55bd04fb09fe3f981763f1c3013e7a40aa928976e8515cd4b3533a5e'
+              os='ALL'>https://addons.mozilla.org/downloads/file/72951/yoono-7.0.6-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>RSS Ticker</name>
+    <type id='1'>Extension</type>
+    <guid>{1f91cde0-c040-11da-a94d-0800200c9a66}</guid>
+    <version>3.0.4</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Christopher Finke</author>
+    </authors>      
+    <summary>RSS Ticker loads your Live Bookmarks and scrolls their entries across your screen while you surf.</summary>
+    <description>RSS Ticker loads your Live Bookmarks and scrolls their entries across your screen while you surf.  It&#39;s perfect for staying informed without having to actively browse entries in an RSS reader.The ticker can be placed at the bottom of the screen (below the status bar) or at the top of the screen (underneath your bookmarks toolbar).  Nearly all aspects of the ticker&#39;s display are customizable, including the scroll speed, smoothness, and link width.  You can even set a limit for the number of items that appear from each feed.You can decide which of your Live Bookmarks you want scrolled in the ticker by checking or unchecking the box in the bookmark&#39;s properties dialog (right-click on the Live Bookmark in the Bookmarks menu and choose Properties), or by managing all of your feeds in the ticker&#39;s feed manager (in the RSS Ticker options dialog).You can choose to have RSS Ticker shuffle all of the entries from all of the feeds so that you always have a variety of links showing in the ticker, and since RSS Ticker shows the feed&#39;s favicon (favorite&#39;s icon) next to each entry, you&#39;ll know exactly which feed each entry is from.The ticker and the items in the ticker have a context menu, which allows you to open each item in the current tab, a new tab, or a new window, mark an item as read without opening it, mark an entire feed as read, or mark all feeds as read. You can also open items in tabs in a variety of ways.  There is also an option to manually refresh your feeds.  The context menu is customizable, so you can choose to hide the options you don&#39;t want to see.  (Note: Since version 1.7, you can mark an item as read by Ctrl-clicking on it.)You can move the ticker back and forth manually using the scrollwheel on your mouse, so if you just missed something interesting, you can easily reverse the ticker and get to the link you want.By choosing to customize your Firefox toolbar, you can add the RSS Ticker toolbar button. This button can be used to quickly enable or disable the ticker without visiting the options dialog.RSS Ticker reads RSS (2.0, 1.0, 0.9x) and Atom feeds, and the ticker can be disabled and hidden when you&#39;re not using it, unlike many other ticker extensions.  You can also have it hide itself when it&#39;s empty, perfect for saving valuable screen space.=====================================For those who are new to Live Bookmarks or RSS Feeds:There are two ways to add a Live Bookmark in Firefox:1. If the page you are looking at in your browser offers an RSS feed ( http://digg.com/ , for example), there will be a small orange icon on the right side of the address bar.  If you click on that, it will open the &quot;Add Live Bookmark&quot; dialog.2. In the Bookmarks Manager, (found under Bookmarks &gt; Manage Bookmarks), there is an option under the File menu for &quot;New Live Bookmark.&quot;  Here you can put the location of the XML feed in the Location field.After doing either of these steps, restarting Firefox or choosing &quot;Refresh Feeds&quot; from the Ticker&#39;s context menu will show the feed in the ticker.</description>
+    <icon>https://addons.mozilla.org/img/default_icon.png</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/6138/</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/2325?src=api</learnmore>
+             <install hash='sha256:1b8a6614e56ad594c7217f9a2bf77b37fbe3622fd61d0ac3476da50c3379dcdd'
+              os='ALL'>https://addons.mozilla.org/downloads/file/70909/rss_ticker-3.0.4-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Xmarks Bookmark and Password Sync</name>
+    <type id='1'>Extension</type>
+    <guid>foxmarks@kei.com</guid>
+    <version>3.4.10</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Xmarks Inc.</author>
+    </authors>      
+    <summary>Xmarks is the #1 bookmarking add-on. Install it on all your computers to keep your bookmarks and (optionally) passwords backed up and synchronized. Xmarks also helps you uncover the best of the web based on what millions of people are bookmarking.</summary>
+    <description>Xmarks is the #1 bookmarking add-on. It takes only a moment to get up and running with Xmarks. After you install the add-on, click on the notification to set up Xmarks and start backing up and synchronizing your bookmarks. Install Xmarks on each computer you use, and it seamlessly integrates with your web browser and keeps your bookmarks safely backed up and in sync.Xmarks will sync across browsers too. Today we support Firefox, Internet Explorer, and Safari (Mac OS). Please visit our website at xmarks.com for details.Secure Password Sync is an optional Xmarks feature. If you&#39;d like to learn more about how it works, visit: http://www.xmarks.com/about/features/secure_password_syncXmarks provides seamless bookmark synchronization between your computers and browsers via our synchronization server.  Your bookmark (and optionally password) data is securely stored and backed up on our servers.Our discovery services help you assess the quality of websites you visit, as well as find similar sites with a single click. For example, when you search on Google or other search engines, we compare your search results against data on our servers in order to recommend sites that have been frequently bookmarked.  Our discovery services are powered by analyzing anonymously and in aggregate the millions of bookmarks on our servers--in this way we are leveraging the wisdom of crowds to powerfully enhance your searching and browsing experience.In order to continuously improve the utility of Xmarks, we may collect certain data such as which features are enabled or disabled, and how our features are being used.  Details may be found in our privacy policy:  http://www.xmarks.com/about/privacyTo learn about many more features of Xmarks, visit our feature pages: http://www.xmarks.com/about/featuresGet the latest news about Xmarks at our blog: http://blog.xmarks.com/Xmarks was formerly known as Foxmarks.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/2410/1264713479</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/19473/1239408898</thumbnail>
+    <rating>4</rating>
+    <learnmore>https://addons.mozilla.org/addon/2410?src=api</learnmore>
+             <install hash='sha256:875a7b7e15e88a8e8b625060e2618ccfd13c4dbfec177e25eeed71eeaf099883'
+              os='ALL'>https://addons.mozilla.org/downloads/file/77834/xmarks-3.4.10-fx.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>Video DownloadHelper</name>
+    <type id='1'>Extension</type>
+    <guid>{b9db16a4-6edc-47ec-a1f4-b86292ed211d}</guid>
+    <version>4.7</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>mig</author>
+    </authors>      
+    <summary>The easy way to download and convert Web videos from hundreds of YouTube-like sites.This works also for audio and picture galleries.</summary>
+    <description>DownloadHelper is a tool for web content extraction. Its purpose is to capture video and image files from many sites.Just surf the Web as you are used to, when DownloadHelper detects it can do something for you, the icon gets animated and a menu allows you to download files by simply clicking an itemFor instance, if you go to a YouTube page, you&#39;ll be able to download the video directly on your file system. It also works with MySpace, Google videos, DailyMotion, Porkolt, iFilm, DreamHost and others.Since version 3.1, you can setup the extension to automatically convert the downloaded movies to your preferred video format.When you are on a page containing links to images or movies, you can download some or all of them at once. Moving the mouse over the items in the menu will highlights the links directly in the page to make sure they are the ones you want to pick up.DownloadHelper also allows you to download files one by one, so that you keep bandwidth to surf for other stuff to download.To modify your preferences, like changing the download directory, right-click on the icon and choose &quot;Preferences&quot;.When you first install the extension, your browser is redirected to a welcome page with links to a user manual at http://www.downloadhelper.net/manual.php and a faq at http://www.downloadhelper.net/faq.phpThis does not change your homepage setting and the welcome page won&#39;t appear anymore.Support can be obtained from http://www.downloadhelper.net/support.php</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/3006/1265194537</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>1.5</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+             <application>
+            <name>SeaMonkey</name>
+            <application_id>59</application_id>
+            <min_version>2.0</min_version>
+            <max_version>2.0.*</max_version>
+            <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/25993/1221482458</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/3006?src=api</learnmore>
+             <install hash='sha256:d5c80e341e93e8c3702ff8f7e65b5afac37086b00b172474274086536c321518'
+              os='ALL'>https://addons.mozilla.org/downloads/file/75864/downloadhelper-4.7-fx+sm.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>CoolPreviews</name>
+    <type id='1'>Extension</type>
+    <guid>{CE6E6E3B-84DD-4cac-9F63-8D2AE4F30A4B}</guid>
+    <version>3.0.1</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>The Cooliris Team</author>
+    </authors>      
+    <summary>Browse faster -- Preview links and images without leaving your current page or tab. Just mouseover any link, and a separate preview window appears to show you the content. (TIP: Mouseover subsequent links while the preview window is still open!)</summary>
+    <description>CoolPreviews is all about browsing faster. The customizable preview window lets you preview or browse just about any link without ever leaving your current page or tab. No more need to click in and out of tabs.&lt;strong&gt;FULLY CUSTOMIZABLE&lt;/strong&gt;-----------------------------------------------------------------------------------------------------------------------------------    * Control how the preview window opens, i.e. speed, activation method, etc.     * Control the sensitivity of the preview window     * Toggle previews on/off on any specific site (click our icon on your browser status bar)    * Many more ...&lt;strong&gt;FEATURES&lt;/strong&gt;-----------------------------------------------------------------------------------------------------------------------------------    * Preview web links, images, and videos without leaving your current page or tab.    * Automatically subsearch Google, Wikipedia, and others     * Temporarily bookmark items to the right column with our unique &quot;stacks&quot; feature    * Instantly send links to friends and family with just a click.    * Effortlessly scroll Google Image search results on an &quot;infinite 3D Wall&quot; (Cooliris addon required).  Brought to you by the developers of Cooliris, the popular addon that transforms your browser into a 3D Wall for simply the fastest way to browse photos and videos.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/2207/1264873835</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.0</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/30208/1263595362</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/2207?src=api</learnmore>
+             <install hash='sha256:38e5a122744322023c36c8b4c1a793f42013504a3ae1671af365912090092068'
+              os='ALL'>https://addons.mozilla.org/downloads/file/78065/coolpreviews-3.0.1-fx+mz.xpi?src=api</install>          
+         </addon>
+<addon>
+        <name>TwitterBar</name>
+    <type id='1'>Extension</type>
+    <guid>{1a0c9ebe-ddf9-4b76-b8a3-675c77874d37}</guid>
+    <version>2.9</version>
+    <status id='4'>Public</status>
+    <authors>
+          <author>Christopher Finke</author>
+    </authors>      
+    <summary>Post to Twitter from your address bar.** Winner of Mozilla Mobile Add-ons Challenge! **</summary>
+    <description>** Winner of Mozilla Mobile Add-ons Challenge! **TwitterBar allows you to post to Twitter from Firefox&#39;s address bar. A small Twitter icon sits to the right of your address bar; clicking on it will post your tweet, and you can hover your mouse over it to see how many characters you have left.You can also post by typing &quot;--post&quot; at the end of your tweet.  Clicking the Twitter icon when visiting a webpage will send a tweet containing the URL of the webpage you are currently viewing.As of version 2.9, you can post to multiple Twitter accounts.  To post to a specific account, just type --@account_name at the end of your tweet (but before typing --post). e.g., &quot;Tweeting from my personal account. --@jimmy2424 --post&quot;.  (If you have authorized more than one account but don&#39;t specify which one to post to, you&#39;ll be asked to select from a list.) To add a new account, just type --account in the URL bar. You&#39;ll be prompted to sign into Twitter with the new account.You can manage your accounts from the options dialog. Just type --options in the URL bar.</description>
+    <icon>https://addons.mozilla.org/en-US/firefox/images/addon_icon/4664/1266892723</icon>
+    <compatible_applications>
+        <application>
+            <name>Firefox</name>
+            <application_id>1</application_id>
+            <min_version>3.5</min_version>
+            <max_version>3.6.*</max_version>
+            <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+             </application>
+             <application>
+            <name>Fennec</name>
+            <application_id>60</application_id>
+            <min_version>1.0a1</min_version>
+            <max_version>1.1a2pre</max_version>
+            <appID>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</appID>
+             </application>
+         </compatible_applications>      
+        <all_compatible_os>
+            <os>Darwin</os><os>WINNT</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>Darwin</os><os>WINNT</os><os>ALL</os><os>ALL</os><os>ALL</os><os>ALL</os><os>Darwin</os><os>WINNT</os><os>ALL</os>        </all_compatible_os>
+        <eula></eula>
+    <thumbnail>https://addons.mozilla.org/en-US/firefox/images/t/42306/1266283472</thumbnail>
+    <rating>5</rating>
+    <learnmore>https://addons.mozilla.org/addon/4664?src=api</learnmore>
+             <install hash='sha256:dbb5d05e81db6917a661360cbca87a08eb049e75896076f23af8aa9ee7cc8a7e'
+              os='ALL'>https://addons.mozilla.org/downloads/file/80960/twitterbar-2.9-fx+fn.xpi?src=api</install>          
+         </addon>
+</addons>
+ 
